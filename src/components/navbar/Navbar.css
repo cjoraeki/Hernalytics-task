@@ -58,6 +58,19 @@
 
 }
 
+@media only screen and (max-width: 1350px) {
+    /* body {
+      background-color: lightblue;
+    } */
+    .header ul a{
+        font-size: x-small;
+    }
+
+    .header-text{
+        
+    }
+  }
+
 
 
 
