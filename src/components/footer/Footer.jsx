@@ -15,7 +15,7 @@ const Footer = () => {
 
         <div className="foot-first">
           <ul>
-            <h3>Aboout</h3>
+            <h3>About</h3>
             <li>Our Story</li>
             <li>Blog</li>
             <li>About Hernalytics</li>
